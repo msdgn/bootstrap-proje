@@ -1,0 +1,16 @@
+.resimslider{
+     height:200px !important;  
+}
+body{
+    padding-top: 50px;
+}
+.iconresim{
+    background-color:grey ;
+
+}
+.cizgi{
+   max-width: 250px;
+   border: none;
+   border-top: 3px solid #343a40;
+   margin: 25px auto;
+}
